@@ -1,0 +1,4 @@
+{
+    "editor.experimental.asyncTokenizationVerification": true,
+    "workbench.editor.tabSizingFixedMaxWidth": 100
+}
