@@ -28,6 +28,4 @@ GO
 GO
 CREATE SCHEMA gold;
 GO
-
-
 -- Create Tables
