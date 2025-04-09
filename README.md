@@ -1,9 +1,8 @@
-# Data-Warehouse Project
-Welcome to the Data Warehouse and Analytics Project repository! 🚀  
+# 🗃️ Data-Warehouse Project
 
-This project showcases a complete data warehousing and analytics solution—from building a data warehouse to extracting meaningful insights. Designed as a portfolio project it follows industry best practices in data engineering and analytics.
+This project showcase an complete data warehousing and analytics solution from building a data warehouse to extract meaningful insights. Designed as industry best practices in data engineering and analytics
 
-## 🏗️ Data Architecture
+##  Data Architecture
 
 This project follows the Medallion Architecture, organizing data into three layers:
 
@@ -11,7 +10,7 @@ This project follows the Medallion Architecture, organizing data into three laye
 2. **Silver Layer**: Performs data cleansing, standardization, and normalization, ensuring the data is structured and ready for analysis.
 3. **Gold Layer**: Contains business-ready data modeled into a star schema, optimized for reporting and analytics.
 
-## 📖 Project Overview
+## Project Overview
 This project involves:
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
@@ -25,13 +24,13 @@ This project involves:
   Data Modeling
   Data Analytics
 
-## 🚀 Project Requirements
+## Project Requirements
 #### Building the Data Warehouse (Data Engineering) ####
 #### Objective ####
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 #### Specifications ####
-#### 📂 Data Pipeline Overview  ####
+#### Data Pipeline Overview  ####
 
 - **Data Sources**: Import data from two source systems (**ERP** and **CRM**) provided as CSV files.  
 - **Data Quality**: Cleanse and resolve data quality issues before analysis.  
@@ -49,5 +48,5 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-## 🛡️ License
+##  License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
